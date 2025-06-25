@@ -1,0 +1,5 @@
+build_release.sh
+node_modules
+logs
+.DS_Store
+pnpm-lock.yaml
